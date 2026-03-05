@@ -1,6 +1,6 @@
 'use strict';
 
-const inputs = document.querySelector('input');
+const inputs = document.querySelectorAll('input');
 
 /** перша літера велика */
 inputs.forEach((input) => {
